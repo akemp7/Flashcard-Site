@@ -1,6 +1,32 @@
 #p1, #p2, #p3 {
   display: none;
 }
+
 #p4, #p5, #p6, #p7, #p8, #p9, #p10, #p11, #p12, #p13, #p14, #p15, #p16 {
-display: none;
+  display: none;
+}
+
+#p17, #p18, #p19 {
+  display: none;
+}
+
+li {
+  color: blue;
+  font-style: oblique;
+}
+
+.card {
+  margin-top: 30px;
+}
+
+h1 {
+  color: black;
+  font-style: bold;
+}
+
+body {
+  background-color: grey;
+}
+.container {
+  float: left;
 }
